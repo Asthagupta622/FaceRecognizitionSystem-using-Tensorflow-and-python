@@ -98,4 +98,9 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 # License
 
 This `README.md` provides a comprehensive overview of your face detection project, including installation instructions, usage examples, and troubleshooting tips. Adjust the content as necessary to match the specifics of your project.
-![istockphoto-1491338253-1024x1024](https://github.com/Asthagupta622/FaceRecognizitionSystem-using-Tensorflow-and-python/assets/144714106/397bbb0f-f250-4067-8d8f-650eb8f79e44)
+
+# Face Detection Model
+
+![Face Detection Image](https://github.com/Asthagupta622/FaceRecognizitionSystem-using-Tensorflow-and-python/assets/144714106/397bbb0f-f250-4067-8d8f-650eb8f79e44)
+
+This repository contains a face detection model built using Python and TensorFlow. The model is designed to detect faces in real-time from a video feed, such as a webcam. The project includes training scripts, the trained model,
